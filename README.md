@@ -1,5 +1,7 @@
 ## Expiration alert for calibration of Oil and Gas metering system.
----
+
+![Project Flowgate2](https://github.com/TheOlajide/Expiration-Alert/assets/155437593/ed922cb2-e13c-4c36-82d4-7b36a3fa377a)
+
 ### Project Overview
 ---
 In compliance with the Department of Petroleum Resources(DPR) regulation, it is compulsory to carry out routine calibration of oil and gas flow meters every six month.
