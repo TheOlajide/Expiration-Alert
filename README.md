@@ -19,17 +19,22 @@ EDATE(previous calibration date, 6) = Next calibration date
 ```
 Number of Monthly interval = 6
 
-3. To format ‘next calibration date’ column;
--Conditional formatting
--New formatting rule
--Format only cells that contains…
-
+3. To format ‘Next Calibration Date’ column;
+ - Conditional formatting
+ - New formatting rule
+ - Format only cells that contains…
+```
 Cell value >= EDATE(previous calibration date, 6)
--Choose formatting color
+```
+ - Choose formatting color
 
-4.To create a status column that tells wether calibration is DUE or NOT DUE.
+4. To create a status column that tells wether calibration is 'DUE' or 'NOT DUE'.
+```
 If (Today() >= Next calibration date, “DUE”,”NOT DUE”)
+```
 
-5.To set ‘days remaining’ column
+5.To set ‘Days Remaining’ column
 
+```
 Next calibration date – Today()
+````
