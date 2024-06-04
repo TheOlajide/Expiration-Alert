@@ -1,5 +1,6 @@
-## Expiration alert for calibration of Oil and Gas metering system.
+## Expiration Alert for Calibration of Oil & Gas Metering System.
 
+![Project Flowgate](https://github.com/TheOlajide/Expiration-Alert/assets/155437593/01f66185-7a6c-411e-8ec5-d2872ac82b81)
 
 
 ### Project Overview
